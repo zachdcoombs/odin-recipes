@@ -1,0 +1,30 @@
+body {
+    background-color: grey;
+    color: white;
+    text-align: center;
+}
+
+li, ul {
+    list-style-position: inside;
+}
+
+img {
+    height: auto;
+    width: 300px;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+}
+h1, h2, h3 {
+    text-decoration: underline;
+}
+
+h2, h3, p, ul, ol {
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
